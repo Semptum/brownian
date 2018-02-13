@@ -1,0 +1,4 @@
+\babel@toc {french}{}
+\beamer@sectionintoc {1}{M\IeC {\'e}thode experimentale}{2}{0}{1}
+\beamer@sectionintoc {2}{\IeC {\'E}tude pr\IeC {\'e}liminaire du mouvement en milieu simple}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Mouvement brownien de collo\IeC {\"\i }des petits}{4}{0}{2}
