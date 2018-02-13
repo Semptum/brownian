@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.2.10)  13 FEB 2018 02:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.2.10)  13 FEB 2018 04:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1584,7 +1584,7 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 Package hyperref Warning: Option `pdfsubject' has already been used,
 (hyperref)                setting the option has no effect on input line 22.
 
-<logo_ens.png, id=25, 1058.95625pt x 360.34625pt>
+<logo_ens.png, id=29, 1058.95625pt x 360.34625pt>
 File: logo_ens.png Graphic file (type png)
 <use logo_ens.png>
 Package pdftex.def Info: logo_ens.png  used on input line 30.
@@ -1592,15 +1592,15 @@ Package pdftex.def Info: logo_ens.png  used on input line 30.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo_ens.png>]
-<Cellule1.png, id=37, 357.58594pt x 251.06297pt>
+<Cellule1.png, id=41, 357.58594pt x 251.06297pt>
 File: Cellule1.png Graphic file (type png)
 <use Cellule1.png>
-Package pdftex.def Info: Cellule1.png  used on input line 54.
+Package pdftex.def Info: Cellule1.png  used on input line 55.
 (pdftex.def)             Requested size: 153.64493pt x 107.87451pt.
-<Cellule2.png, id=38, 493.4686pt x 453.56953pt>
+<Cellule2.png, id=42, 493.4686pt x 453.56953pt>
 File: Cellule2.png Graphic file (type png)
 <use Cellule2.png>
-Package pdftex.def Info: Cellule2.png  used on input line 54.
+Package pdftex.def Info: Cellule2.png  used on input line 55.
 (pdftex.def)             Requested size: 153.64493pt x 141.22105pt.
 
 [2
@@ -1608,42 +1608,52 @@ Package pdftex.def Info: Cellule2.png  used on input line 54.
  <./Cellule1.png> <./Cellule2.png>] [3
 
 ]
-<Trajectory_brownian.png, id=56, 433.62pt x 289.08pt>
+<Trajectory_brownian.png, id=60, 433.62pt x 289.08pt>
 File: Trajectory_brownian.png Graphic file (type png)
 <use Trajectory_brownian.png>
-Package pdftex.def Info: Trajectory_brownian.png  used on input line 72.
+Package pdftex.def Info: Trajectory_brownian.png  used on input line 73.
 (pdftex.def)             Requested size: 276.559pt x 184.37979pt.
 
-Overfull \vbox (2.99829pt too high) detected at line 72
+Overfull \vbox (2.99829pt too high) detected at line 73
  []
 
 [4
 
  <./Trajectory_brownian.png>]
-<Correlation_brownian.png, id=68, 433.62pt x 289.08pt>
+<Correlation_brownian.png, id=72, 433.62pt x 289.08pt>
 File: Correlation_brownian.png Graphic file (type png)
 <use Correlation_brownian.png>
-Package pdftex.def Info: Correlation_brownian.png  used on input line 82.
+Package pdftex.def Info: Correlation_brownian.png  used on input line 83.
 (pdftex.def)             Requested size: 276.559pt x 184.37979pt.
 
-Overfull \vbox (2.99829pt too high) detected at line 82
+Overfull \vbox (2.99829pt too high) detected at line 83
  []
 
 [5
 
  <./Correlation_brownian.png>]
-<StatDepl_brownian.png, id=76, 433.62pt x 289.08pt>
+<StatDepl_brownian.png, id=80, 433.62pt x 289.08pt>
 File: StatDepl_brownian.png Graphic file (type png)
 <use StatDepl_brownian.png>
-Package pdftex.def Info: StatDepl_brownian.png  used on input line 93.
+Package pdftex.def Info: StatDepl_brownian.png  used on input line 94.
 (pdftex.def)             Requested size: 276.559pt x 184.37979pt.
 
-Overfull \vbox (2.99829pt too high) detected at line 93
+Overfull \vbox (2.99829pt too high) detected at line 94
  []
 
 [6
 
  <./StatDepl_brownian.png>] [7
+
+]
+<FuitesNico_1.png, id=94, 433.62pt x 289.08pt>
+File: FuitesNico_1.png Graphic file (type png)
+<use FuitesNico_1.png>
+Package pdftex.def Info: FuitesNico_1.png  used on input line 111.
+(pdftex.def)             Requested size: 245.83282pt x 163.89069pt.
+ [8
+
+ <./FuitesNico_1.png>] [9
 
 ]
 \tf@nav=\write6
@@ -1655,35 +1665,37 @@ Overfull \vbox (2.99829pt too high) detected at line 93
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
- (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
+
+(./presentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: BCECEB63658103591187FFB530B97FD4;238.
+(rerunfilecheck)             Checksum: 0063AD971CEADA710D635A6081800A18;322.
  ) 
 Here is how much of TeX's memory you used:
- 28871 strings out of 492980
- 573040 string characters out of 6134878
- 615078 words of memory out of 5000000
- 31946 multiletter control sequences out of 15000+600000
+ 28890 strings out of 492980
+ 573283 string characters out of 6134878
+ 615140 words of memory out of 5000000
+ 31958 multiletter control sequences out of 15000+600000
  546244 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,11n,55p,10363b,770s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfcc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb><
-/usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on presentation.pdf (7 pages, 632428 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfcc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/
+share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/ty
+pe1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/
+sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/s
+hare/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
+Output written on presentation.pdf (9 pages, 703051 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
- 23 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 154 PDF objects out of 1000 (max. 8388607)
+ 110 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
