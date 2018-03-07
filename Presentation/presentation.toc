@@ -1,5 +1,6 @@
 \babel@toc {french}{}
-\beamer@sectionintoc {1}{M\IeC {\'e}thode experimentale}{2}{0}{1}
-\beamer@sectionintoc {2}{\IeC {\'E}tude pr\IeC {\'e}liminaire du mouvement en milieu simple}{4}{0}{2}
-\beamer@subsectionintoc {2}{1}{Mouvement brownien de collo\IeC {\"\i }des petits}{4}{0}{2}
-\beamer@subsectionintoc {2}{2}{Mouvement des bact\IeC {\'e}ries vivantes}{9}{0}{2}
+\beamer@sectionintoc {1}{M\IeC {\'e}thode exp\IeC {\'e}rimentale}{2}{0}{1}
+\beamer@sectionintoc {2}{\IeC {\'E}tude pr\IeC {\'e}liminaire du mouvement en milieu simple}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Mouvement brownien de collo\IeC {\"\i }des petits}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Mouvement des bact\IeC {\'e}ries vivantes}{16}{0}{2}
+\beamer@sectionintoc {3}{\IeC {\'E}tude du mouvement autour de collo\IeC {\"\i }des ou qqch d'autre}{24}{0}{3}

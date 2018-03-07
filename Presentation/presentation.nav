@@ -2,32 +2,73 @@
 \headcommand {\beamer@framepages {1}{1}}
 \headcommand {\beamer@sectionpages {1}{1}}
 \headcommand {\beamer@subsectionpages {1}{1}}
-\headcommand {\sectionentry {1}{M\IeC {\'e}thode experimentale}{2}{M\IeC {\'e}thode experimentale}{0}}
+\headcommand {\sectionentry {1}{M\IeC {\'e}thode exp\IeC {\'e}rimentale}{2}{M\IeC {\'e}thode exp\IeC {\'e}rimentale}{0}}
 \headcommand {\slideentry {1}{0}{1}{2/2}{}{0}}
 \headcommand {\beamer@framepages {2}{2}}
 \headcommand {\slideentry {1}{0}{2}{3/3}{}{0}}
 \headcommand {\beamer@framepages {3}{3}}
-\headcommand {\beamer@sectionpages {2}{3}}
-\headcommand {\beamer@subsectionpages {2}{3}}
-\headcommand {\sectionentry {2}{\IeC {\'E}tude pr\IeC {\'e}liminaire du mouvement en milieu simple}{4}{\IeC {\'E}tude pr\IeC {\'e}liminaire du mouvement en milieu simple}{0}}
-\headcommand {\beamer@subsectionpages {4}{3}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{4}{Mouvement brownien de collo\IeC {\"\i }des petits}}
-\headcommand {\slideentry {2}{1}{1}{4/4}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
+\headcommand {\slideentry {1}{0}{3}{4/4}{}{0}}
 \headcommand {\beamer@framepages {4}{4}}
-\headcommand {\slideentry {2}{1}{2}{5/5}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
+\headcommand {\slideentry {1}{0}{4}{5/5}{}{0}}
 \headcommand {\beamer@framepages {5}{5}}
-\headcommand {\slideentry {2}{1}{3}{6/6}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
+\headcommand {\beamer@sectionpages {2}{5}}
+\headcommand {\beamer@subsectionpages {2}{5}}
+\headcommand {\sectionentry {2}{\IeC {\'E}tude pr\IeC {\'e}liminaire du mouvement en milieu simple}{6}{\IeC {\'E}tude pr\IeC {\'e}liminaire du mouvement en milieu simple}{0}}
+\headcommand {\beamer@subsectionpages {6}{5}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{6}{Mouvement brownien de collo\IeC {\"\i }des petits}}
+\headcommand {\slideentry {2}{1}{1}{6/6}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\slideentry {2}{1}{4}{7/7}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
+\headcommand {\slideentry {2}{1}{2}{7/7}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
 \headcommand {\beamer@framepages {7}{7}}
-\headcommand {\slideentry {2}{1}{5}{8/8}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
+\headcommand {\slideentry {2}{1}{3}{8/8}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@subsectionpages {4}{8}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{9}{Mouvement des bact\IeC {\'e}ries vivantes}}
-\headcommand {\slideentry {2}{2}{1}{9/9}{Mouvement des bact\IeC {\'e}ries vivantes}{0}}
+\headcommand {\slideentry {2}{1}{4}{9/9}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\beamer@partpages {1}{9}}
-\headcommand {\beamer@subsectionpages {10}{9}}
-\headcommand {\beamer@sectionpages {10}{9}}
-\headcommand {\beamer@documentpages {9}}
-\headcommand {\gdef \inserttotalframenumber {8}}
+\headcommand {\slideentry {2}{1}{5}{10/10}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {2}{1}{6}{11/11}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {2}{1}{7}{12/12}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {2}{1}{8}{13/13}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {2}{1}{9}{14/14}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {2}{1}{10}{15/15}{Mouvement brownien de collo\IeC {\"\i }des petits}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@subsectionpages {6}{15}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{16}{Mouvement des bact\IeC {\'e}ries vivantes}}
+\headcommand {\slideentry {2}{2}{1}{16/16}{Mouvement des bact\IeC {\'e}ries vivantes}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {2}{2}{2}{17/17}{Mouvement des bact\IeC {\'e}ries vivantes}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {2}{2}{3}{18/18}{Mouvement des bact\IeC {\'e}ries vivantes}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {2}{2}{4}{19/19}{Mouvement des bact\IeC {\'e}ries vivantes}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {2}{2}{5}{20/20}{Mouvement des bact\IeC {\'e}ries vivantes}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {2}{2}{6}{21/21}{Mouvement des bact\IeC {\'e}ries vivantes}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {2}{2}{7}{22/22}{Mouvement des bact\IeC {\'e}ries vivantes}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {2}{2}{8}{23/23}{Mouvement des bact\IeC {\'e}ries vivantes}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\gdef \insertmainframenumber {22}}
+\headcommand {\beamer@sectionpages {6}{23}}
+\headcommand {\beamer@subsectionpages {16}{23}}
+\headcommand {\sectionentry {3}{\IeC {\'E}tude du mouvement autour de collo\IeC {\"\i }des ou qqch d'autre}{24}{\IeC {\'E}tude du mouvement autour de collo\IeC {\"\i }des ou qqch d'autre}{0}}
+\headcommand {\partentry {Annexe}{1}}
+\headcommand {\beamer@partpages {1}{23}}
+\headcommand {\beamer@sectionpages {24}{23}}
+\headcommand {\beamer@subsectionpages {24}{23}}
+\headcommand {\beamer@appendixpages {24}}
+\headcommand {\slideentry {3}{0}{1}{24/24}{}{1}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {3}{0}{2}{25/25}{}{1}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\beamer@partpages {24}{25}}
+\headcommand {\beamer@subsectionpages {24}{25}}
+\headcommand {\beamer@sectionpages {24}{25}}
+\headcommand {\beamer@documentpages {25}}
+\headcommand {\gdef \inserttotalframenumber {24}}
